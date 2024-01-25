@@ -60,12 +60,12 @@ self.__precacheManifest = [
     "url": "/engineer/static/media/tlbc_user.08ba2300.pdf"
   },
   {
-    "revision": "21f233e19402cc4a66866a7f31191f0d",
-    "url": "/engineer/static/media/Agustina.21f233e1.woff"
-  },
-  {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
     "url": "/engineer/static/media/GoogleSans-Bold.4457817a.ttf"
+  },
+  {
+    "revision": "21f233e19402cc4a66866a7f31191f0d",
+    "url": "/engineer/static/media/Agustina.21f233e1.woff"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/engineer/static/media/GoogleSans-Italic.0ecddcde.ttf"
   },
   {
-    "revision": "8fd3737925e83c87d78a13700ccf9a62",
-    "url": "/engineer/static/media/GoogleSans-MediumItalic.8fd37379.ttf"
-  },
-  {
     "revision": "8d57e4014b18edef070d285746485115",
     "url": "/engineer/static/media/GoogleSans-Medium.8d57e401.ttf"
+  },
+  {
+    "revision": "8fd3737925e83c87d78a13700ccf9a62",
+    "url": "/engineer/static/media/GoogleSans-MediumItalic.8fd37379.ttf"
   },
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
@@ -276,16 +276,16 @@ self.__precacheManifest = [
     "url": "/engineer/static/media/fa-brands-400.06147b6c.ttf"
   },
   {
+    "revision": "c4f508e7c4f01a9eeba7f08155cde04e",
+    "url": "/engineer/static/media/fa-regular-400.c4f508e7.woff"
+  },
+  {
     "revision": "c1a866ec0e04a5e1915b41fcf261457c",
     "url": "/engineer/static/media/fa-regular-400.c1a866ec.eot"
   },
   {
     "revision": "f5f2566b93e89391da4db79462b8078b",
     "url": "/engineer/static/media/fa-regular-400.f5f2566b.woff2"
-  },
-  {
-    "revision": "c4f508e7c4f01a9eeba7f08155cde04e",
-    "url": "/engineer/static/media/fa-regular-400.c4f508e7.woff"
   },
   {
     "revision": "65b286af947c0d982ca01b40e1fcab38",
